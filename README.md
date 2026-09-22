@@ -62,6 +62,6 @@ AI-based service for analyzing potentially malicious Office documents before exe
 
 <p>
   <a href="https://bam-for.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" /></a>
-  <a href="https://www.linkedin.com/in/%EC%A7%80%ED%98%84-%EA%B9%80-a01845246"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48dGV4dCB4PSIxIiB5PSIxMyIgZm9udC1mYW1pbHk9IkFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IndoaXRlIj5pbjwvdGV4dD48L3N2Zz4%3D" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jihyeon-kim-a01845246"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48dGV4dCB4PSIxIiB5PSIxMyIgZm9udC1mYW1pbHk9IkFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IndoaXRlIj5pbjwvdGV4dD48L3N2Zz4%3D" alt="LinkedIn" /></a>
   <a href="mailto:byjiana247@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
